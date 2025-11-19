@@ -2,7 +2,7 @@
 name: User Story (INVEST)
 about: Create a vertical slice of functionality
 title: 'As a [Role], I want [Action], so that [Benefit]'
-labels: 'User Story'
+labels: 'Story'
 assignees: ''
 ---
 
