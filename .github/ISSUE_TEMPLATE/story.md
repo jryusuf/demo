@@ -1,13 +1,4 @@
 ---
-name: Story
-about: Suggest an idea for this project
-title: ''
-labels: Story
-assignees: ''
-
----
-
----
 name: User Story (INVEST)
 about: Create a vertical slice of functionality
 title: 'As a [Role], I want [Action], so that [Benefit]'
